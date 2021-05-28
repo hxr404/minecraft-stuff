@@ -39,11 +39,12 @@ note that unstable mods are also in this list
 | [NotEnoughCrashes](https://github.com/natanfudge/not-enough-crashes)               |   ✔️   |   ❌   |                                                          |
 | [SeemlessLoadingScreen](https://github.com/Minenash/Seamless-Loading-Screen)       |   ✔️   |   ❌   |                                                          |
 | [FabricProxy-Lite](https://github.com/OKTW-Network/FabricProxy-Lite)               |   ❌   |   ✔️   |                                                          |
+| [AdvancementsDebug]()
+| [SodiumExtra]()
 
 ## Beautify
 | Mod                                                                                | Client | Server | Other (incompatibilities, custom Forks, etc.)             |
 |------------------------------------------------------------------------------------|--------|--------|-----------------------------------------------------------|
-| [BetterEnchantedBooks](https://github.com/Bernasss12/BetterEnchantedBooks)         |   ✔️   |   ❌   |                                                          |
 | [Immersive Portals](https://github.com/qouteall/ImmersivePortalsMod)               |   ✔️   |   ❌   | Incompatible with Sodium, [compatible fork]() available  |
 | [lambdabettergrass](https://github.com/LambdAurora/LambdaBetterGrass)              |   ✔️   |   ❌   | Requires [comp500's Fork](https://github.com/comp500/sodium-fabric)|
 | [lambdynamiclights](https://github.com/LambdAurora/LambDynamicLights)              |   ✔️   |   ❌   |                                                          |
@@ -52,15 +53,29 @@ note that unstable mods are also in this list
 | [Minecraft XR](https://github.com/Sorenon/MCXR)                                    |   ✔️   |   ❌   | wip                                                      |
 | [Dynamic Sound Filters](https://www.curseforge.com/minecraft/mc-mods/dynamic-sound-filters)|   ✔️   |   ❌   |                                                  |
 | [MumbleLink](https://github.com/magneticflux-/fabric-mumblelink-mod)               |   ✔️   |   ✔️   |                                                          |
+| [MinecraftXR](https://github.com/Sorenon/MCXR)                                     |   ✔️   |   ❌   | wip                                                      |
+
+## Resource Pack Support
+| Mod                                                                                | Client | Server | Other (incompatibilities, custom Forks, etc.)             |
+|------------------------------------------------------------------------------------|--------|--------|-----------------------------------------------------------|
+| [CustomSplashScreen](https://github.com/TeamMidnightDust/CustomSplashScreen)       |   ✔️   |   ❌   |                                                          |
+| [ColorMatic](https://github.com/kvverti/colormatic)                                |   ✔️   |   ❌   |                                                          |
+| [Transparent](https://github.com/Trikzon/Transparent)                              |   ✔️   |   ❌   |                                                          |
+| [CTMF](https://github.com/PepperCode1/ConnectedTexturesMod-Fabric/)                |   ✔️   |   ❌   | No Optifine Support                                      |
+| [CBM](https://github.com/Nuclearfarts/connected-block-textures)                    |   ✔️   |   ❌   | Outdated                                                 |
+| [Chime](https://github.com/emilyalexandra/chime)                                   |   ✔️   |   ❌   | No Optifine Support (cuz optifine bad)                   |
+| [VariedMobs](https://github.com/Digifox03/variedMobs)                              |   ✔️   |   ❌   | Use [MCPP++](https://github.com/supsm/MCPPPP) for Optifine Format |
 
 ## Other
 | Mod                                                                                | Client | Server | Other (incompatibilities, custom Forks, etc.)             |
 |------------------------------------------------------------------------------------|--------|--------|-----------------------------------------------------------|
 AppleSkin
 antiswim
+Baritone
 Capes
 ChatHeads
 ClearSkies
+clientcommands
 DurabilityViewer
 FabricMumbleLink
 Fabrishot
@@ -74,6 +89,7 @@ litematica
 minihud
 minimalmenu
 multiconnect
+No-Fog
 preciseblockplacing
 reach out
 Roughly Enough Resources
