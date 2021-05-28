@@ -54,6 +54,9 @@ note that unstable mods are also in this list
 | [Dynamic Sound Filters](https://www.curseforge.com/minecraft/mc-mods/dynamic-sound-filters)|   ✔️   |   ❌   |                                                  |
 | [MumbleLink](https://github.com/magneticflux-/fabric-mumblelink-mod)               |   ✔️   |   ✔️   |                                                          |
 | [MinecraftXR](https://github.com/Sorenon/MCXR)                                     |   ✔️   |   ❌   | wip                                                      |
+| [PresenceFootsteps](https://github.com/Sollace/Presence-Footsteps)                 |   ✔️   |   ❌   |                                                          |
+| [MAmbience](https://www.curseforge.com/minecraft/mc-mods/mambience)                |   ✔️   |   ✔️   |                                                          |
+
 
 ## Resource Pack Support
 | Mod                                                                                | Client | Server | Other (incompatibilities, custom Forks, etc.)             |
@@ -70,6 +73,7 @@ note that unstable mods are also in this list
 | Mod                                                                                | Client | Server | Other (incompatibilities, custom Forks, etc.)             |
 |------------------------------------------------------------------------------------|--------|--------|-----------------------------------------------------------|
 AppleSkin
+[Amecs](https://github.com/Siphalor/amecs)
 antiswim
 Baritone
 Capes
@@ -101,4 +105,6 @@ viafabric
 WI Zoom
 wthit
 Xaeros_Minimap
+[Pistorder](https://github.com/Fallen-Breath/pistorder)
+[MonstersInTheCloset](https://github.com/Minenash/MonstersInTheCloset)
 
