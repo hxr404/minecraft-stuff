@@ -39,8 +39,8 @@ note that unstable mods are also in this list
 | [NotEnoughCrashes](https://github.com/natanfudge/not-enough-crashes)               |   ✔️   |   ❌   |                                                          |
 | [SeemlessLoadingScreen](https://github.com/Minenash/Seamless-Loading-Screen)       |   ✔️   |   ❌   |                                                          |
 | [FabricProxy-Lite](https://github.com/OKTW-Network/FabricProxy-Lite)               |   ❌   |   ✔️   |                                                          |
-| [AdvancementsDebug]()
-| [SodiumExtra]()
+| [AdvancementsDebug](https://github.com/Technici4n/advancements-debug)              |        |         |                                                          |
+| [SodiumExtra](https://github.com/FlashyReese/sodium-extra-fabric)                  |   ✔️   |   ❌   |                                                          |
 
 ## Beautify
 | Mod                                                                                | Client | Server | Other (incompatibilities, custom Forks, etc.)             |
