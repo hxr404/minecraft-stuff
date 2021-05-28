@@ -1,5 +1,5 @@
 # minecraft-mods
-A list and comparison of some Minecraft mods (for the Fabric Modloader)
+A list and comparison of some Minecraft QoL mods (for the Fabric Modloader)
 The list itself is [**HERE (modlist.md)**](modlist.md)
 
 # About & Credits
