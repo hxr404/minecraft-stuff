@@ -25,11 +25,14 @@ note that unstable mods are also in this list
 | Some [Carpet](https://github.com/gnembon/fabric-carpet) Rules                      |  (✔)   |   ✔️   | `lagFreeSpawning`, `lightEngineMaxBatchSize`, `maxEntityCollisions`, `optimizedTNT`, `combineXPOrbs`<br>[TIS Addition](https://github.com/TISUnion/Carpet-TIS-Addition):  `optimizedFastEntityMovement `,  `optimizedHardHitBoxEntityCollision `,  `optimizedTNTHighPriority `<br>[wholmT Addon](https://github.com/whoImT/carpet-addons):  `projectileRaycastLength`<br>[johan-carpet](https://github.com/DragonEggBedrockBreaking/FTL-TNT): `ftlTNT` |
 | [DimensionalThreading](https://github.com/WearBlackAllDay/DimensionalThreading)    |  (✔)   |   ✔️   | ALTERS VANILLA BEHAVIOUR: fixes gravity duping           |
 | [Cull Particles](https://github.com/Tfarcenim/CullParticlesFabric)                 |   ✔️   |   ❌   |                                                          |
+| One of Either FastBench and FastFurnace or RecipeCache                             |   ✔️   |   ✔️   |                                                          |
+| [EntityCulling](https://github.com/tr7zw/EntityCulling)                            |   ✔️   |   ❌   | Could maybe have the risk of fixing XRAY bugs            |
 
 
 ## General
 | Mod                                                                                | Client | Server | Other (incompatibilities, custom Forks, etc.)             |
 |------------------------------------------------------------------------------------|--------|--------|-----------------------------------------------------------|
+| [Fabric API]()
 | [Mod Menu](https://github.com/TerraformersMC/ModMenu)                              |   ✔️   |   ❌   |                                                          |
 | [Cloth Config](https://github.com/shedaniel/cloth-config)                          |   ✔️   |   ❌   |                                                          |
 | [DynamicFPS](https://github.com/juliand665/Dynamic-FPS/)                           |   ✔️   |   ❌   |                                                          |
@@ -44,6 +47,12 @@ note that unstable mods are also in this list
 | [FabricProxy-Lite](https://github.com/OKTW-Network/FabricProxy-Lite)               |   ❌   |   ✔️   |                                                          |
 | [AdvancementsDebug](https://github.com/Technici4n/advancements-debug)              |        |         |                                                          |
 | [SodiumExtra](https://github.com/FlashyReese/sodium-extra-fabric)                  |   ✔️   |   ❌   |                                                          |
+| [Indium](https://github.com/comp500/Indium)                                        |   ✔️   |   ❌   | A Sodium Addon for Fabric Rendering API (requires Sodium)|
+| [Fabric Language Kotlin]()
+| Malilib
+| Multiconnect
+| replaymod
+| [viaFabric](https://www.curseforge.com/minecraft/mc-mods/viafabric)
 
 ## Beautify
 | Mod                                                                                | Client | Server | Other (incompatibilities, custom Forks, etc.)             |
@@ -59,6 +68,9 @@ note that unstable mods are also in this list
 | [MinecraftXR](https://github.com/Sorenon/MCXR)                                     |   ✔️   |   ❌   | wip                                                      |
 | [PresenceFootsteps](https://github.com/Sollace/Presence-Footsteps)                 |   ✔️   |   ❌   |                                                          |
 | [MAmbience](https://www.curseforge.com/minecraft/mc-mods/mambience)                |   ✔️   |   ✔️   |                                                          |
+| Clear Despawn
+| CustomSplashScreen
+| ItemModelFix
 
 
 ## Resource Pack Support
@@ -83,13 +95,16 @@ Capes
 ChatHeads
 ClearSkies
 clientcommands
+
 DurabilityViewer
 FabricMumbleLink
 Fabrishot
 FasterLadderClimbing
 Gatewayer
+Giselbaers Durability Viewer
 HeldItemInfo
 hwyla-addon-horseinfo
+horse stats vanilla
 i-am-very-smart
 InvMove
 litematica
@@ -103,11 +118,13 @@ Roughly Enough Resources
 RoughlyEnoughItems
 ScreenshotToClipboardFabric
 tweakaroo
+[Trajectory](https://github.com/segovo/TrajectoryFabric)
 viabackwards
 viafabric
 WI Zoom
 wthit
 Xaeros_Minimap
+Fabric Zero
 [Pistorder](https://github.com/Fallen-Breath/pistorder)
 [MonstersInTheCloset](https://github.com/Minenash/MonstersInTheCloset)
-
+[Carpet Extra](https://github.com/gnembon/carpet-extra)
