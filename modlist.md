@@ -23,6 +23,9 @@ note that unstable mods are also in this list
 | [Smooth Boot](https://www.curseforge.com/minecraft/mc-mods/smooth-boot)            |   ✔️   |   ❌   | wip                                                      |
 | [DashLoader](https://github.com/alphaqu/DashLoader)                                |   ✔️   |   ❌   | Incompatible with Smooth Boot and many more              |
 | Some [Carpet](https://github.com/gnembon/fabric-carpet) Rules                      |  (✔)   |   ✔️   | `lagFreeSpawning`, `lightEngineMaxBatchSize`, `maxEntityCollisions`, `optimizedTNT`, `combineXPOrbs`<br>[TIS Addition](https://github.com/TISUnion/Carpet-TIS-Addition):  `optimizedFastEntityMovement `,  `optimizedHardHitBoxEntityCollision `,  `optimizedTNTHighPriority `<br>[wholmT Addon](https://github.com/whoImT/carpet-addons):  `projectileRaycastLength`<br>[johan-carpet](https://github.com/DragonEggBedrockBreaking/FTL-TNT): `ftlTNT` |
+| [DimensionalThreading](https://github.com/WearBlackAllDay/DimensionalThreading)    |  (✔)   |   ✔️   | ALTERS VANILLA BEHAVIOUR: fixes gravity duping           |
+| [Cull Particles](https://github.com/Tfarcenim/CullParticlesFabric)                 |   ✔️   |   ❌   |                                                          |
+
 
 ## General
 | Mod                                                                                | Client | Server | Other (incompatibilities, custom Forks, etc.)             |
