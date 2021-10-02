@@ -146,3 +146,13 @@ Fabric Zero
 [carpet fixes](https://github.com/fxmorin/carpet-fixes)
 [carpet extra](https://github.com/gnembon/carpet-extra/)
 [minitweaks (carpet](https://github.com/manyrandomthings/minitweaks)
+[tweakmyclient](https://github.com/Hendrix-Shen/Tweak-My-Client)
+[tweakermore](https://github.com/Fallen-Breath/tweakermore)
+
+# Resourcepacks
+[Connected Textures](https://www.curseforge.com/minecraft/texture-packs/mc-connected-ctm)
+[Connected Textures Glasspane Fix](https://www.curseforge.com/minecraft/texture-packs/glass-panes-ctm-fix)
+[ConnectedTextures for mods](https://www.curseforge.com/minecraft/texture-packs/modded-connected-ctm)
+
+[xray ultimate](https://www.curseforge.com/minecraft/texture-packs/xray-ultimate-1-11-compatible)
+[Vanillatweaks](https://vanillatweaks.net/picker/resource-packs/)
