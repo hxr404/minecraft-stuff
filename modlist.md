@@ -27,6 +27,8 @@ note that unstable mods are also in this list
 | [Cull Particles](https://github.com/Tfarcenim/CullParticlesFabric)                 |   ✔️   |   ❌   |                                                          |
 | One of Either FastBench and FastFurnace or RecipeCache                             |   ✔️   |   ✔️   |                                                          |
 | [EntityCulling](https://github.com/tr7zw/EntityCulling)                            |   ✔️   |   ❌   | Could maybe have the risk of fixing XRAY bugs            |
+| [ClientSideNoteBlocks](https://github.com/DaCubeKing/ClientSideNoteblocks)         |   ✔️   |   ❌   |                                                          |
+| [https://github.com/Kroppeb/Potassium]
 
 
 ## General
@@ -54,6 +56,7 @@ note that unstable mods are also in this list
 | replaymod
 | [viaFabric](https://www.curseforge.com/minecraft/mc-mods/viafabric)
 
+
 ## Beautify
 | Mod                                                                                | Client | Server | Other (incompatibilities, custom Forks, etc.)             |
 |------------------------------------------------------------------------------------|--------|--------|-----------------------------------------------------------|
@@ -71,7 +74,8 @@ note that unstable mods are also in this list
 | Clear Despawn
 | CustomSplashScreen
 | ItemModelFix
-
+| [FallingLeaves](https://github.com/RandomMcSomethin/fallingleaves)
+| [Inspecio](https://github.com/Queerbric/Inspecio)
 
 ## Resource Pack Support
 | Mod                                                                                | Client | Server | Other (incompatibilities, custom Forks, etc.)             |
@@ -95,7 +99,6 @@ Capes
 ChatHeads
 ClearSkies
 clientcommands
-
 DurabilityViewer
 FabricMumbleLink
 Fabrishot
@@ -122,9 +125,24 @@ tweakaroo
 viabackwards
 viafabric
 WI Zoom
+OkZoomer(https://github.com/EnnuiL/OkZoomer)
 wthit
 Xaeros_Minimap
 Fabric Zero
 [Pistorder](https://github.com/Fallen-Breath/pistorder)
 [MonstersInTheCloset](https://github.com/Minenash/MonstersInTheCloset)
 [Carpet Extra](https://github.com/gnembon/carpet-extra)
+[masaaddtions](https://github.com/hp3721/masaadditions)
+[masagadget](https://github.com/plusls/MasaGadget/blob/1.17.x/README_EN.md)
+[ohmy-minecraft-client](https://github.com/plusls/oh-my-minecraft-client/blob/1.17/README_EN.md)
+[raise chat limit](https://github.com/Fallen-Breath/raise-chat-limit)
+[itemscroller-crafting-fix](itemscroller-crafting-fix)
+[tellme](https://github.com/maruohon/tellme)
+[bedrock miner](https://github.com/LXYan2333/Fabric-Bedrock-Miner) (mine bedrock with efficinecy 5 and haste 2. Client-Side, works on Servers)
+[AuthMe](https://github.com/axieum/authme)
+[InGameAccountSwitcher](https://github.com/The-Fireplace-Minecraft-Mods/In-Game-Account-Switcher)
+[rug](https://github.com/RubixDev/rug)
+[carpet autocrafting](https://github.com/gnembon/carpet-autoCraftingTable)
+[carpet fixes](https://github.com/fxmorin/carpet-fixes)
+[carpet extra](https://github.com/gnembon/carpet-extra/)
+[minitweaks (carpet](https://github.com/manyrandomthings/minitweaks)
