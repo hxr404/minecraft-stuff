@@ -155,4 +155,7 @@ Fabric Zero
 [ConnectedTextures for mods](https://www.curseforge.com/minecraft/texture-packs/modded-connected-ctm)
 
 [xray ultimate](https://www.curseforge.com/minecraft/texture-packs/xray-ultimate-1-11-compatible)
-[Vanillatweaks](https://vanillatweaks.net/picker/resource-packs/)
+
+[infested stone](https://github.com/hxr404/minecraft-visual-infested-stone-blocks)
+## [Vanillatweaks](https://vanillatweaks.net/picker/resource-packs/)
+https://vanillatweaks.net/share#CPgciq
