@@ -159,3 +159,7 @@ Fabric Zero
 [infested stone](https://github.com/hxr404/minecraft-visual-infested-stone-blocks)
 ## [Vanillatweaks](https://vanillatweaks.net/picker/resource-packs/)
 https://vanillatweaks.net/share#CPgciq
+
+Fun packs:<br>
+Ilmango golden apple: https://vanillatweaks.net/share#DRYvsZ<br>
+WHAT meme: https://github.com/hxr404/minecraft-spyglass-what-meme-soundfix<br>
