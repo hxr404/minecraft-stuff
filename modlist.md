@@ -28,7 +28,9 @@ note that unstable mods are also in this list
 | One of Either FastBench and FastFurnace or RecipeCache                             |   ✔️   |   ✔️   |                                                          |
 | [EntityCulling](https://github.com/tr7zw/EntityCulling)                            |   ✔️   |   ❌   | Could maybe have the risk of fixing XRAY bugs            |
 | [ClientSideNoteBlocks](https://github.com/DaCubeKing/ClientSideNoteblocks)         |   ✔️   |   ❌   |                                                          |
-| [https://github.com/Kroppeb/Potassium]
+| [Potassium](https://github.com/Kroppeb/Potassium)                                  |   ✔️   |   ✔️   |
+| [Alternate Current](https://github.com/SpaceWalkerRS/alternate-current)            |  (✔)   |   ✔️   |
+| [Minecraft Multi-Threading Mod Fabric](https://github.com/himekifee/MCMTFabric)    |  (✔)   |   ✔️   | Unstable, incompatible with dimensional multithreading   |
 
 
 ## General
