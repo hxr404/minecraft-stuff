@@ -22,15 +22,15 @@ note that unstable mods are also in this list
 | [LazyDFU](https://github.com/astei/lazydfu/)                                       |   ✔️   |   ❌   | wip                                                      |
 | [Smooth Boot](https://www.curseforge.com/minecraft/mc-mods/smooth-boot)            |   ✔️   |   ❌   | wip                                                      |
 | [DashLoader](https://github.com/alphaqu/DashLoader)                                |   ✔️   |   ❌   | Incompatible with Smooth Boot and many more              |
-| Some [Carpet](https://github.com/gnembon/fabric-carpet) Rules                      |  (✔)   |   ✔️   | `lagFreeSpawning`, `lightEngineMaxBatchSize`, `maxEntityCollisions`, `optimizedTNT`, `combineXPOrbs`<br>[TIS Addition](https://github.com/TISUnion/Carpet-TIS-Addition):  `optimizedFastEntityMovement `,  `optimizedHardHitBoxEntityCollision `,  `optimizedTNTHighPriority `<br>[wholmT Addon](https://github.com/whoImT/carpet-addons):  `projectileRaycastLength`<br>[johan-carpet](https://github.com/DragonEggBedrockBreaking/FTL-TNT): `ftlTNT` |
-| [DimensionalThreading](https://github.com/WearBlackAllDay/DimensionalThreading)    |  (✔)   |   ✔️   | ALTERS VANILLA BEHAVIOUR: fixes gravity duping           |
+| Some [Carpet](https://github.com/gnembon/fabric-carpet) Rules                      |  (✔)   |   ✔️   | `lagFreeSpawning`, `lightEngineMaxBatchSize`, `maxEntityCollisions`, `optimizedTNT`, `combineXPOrbs`<br>[TIS Addition](https://github.com/TISUnion/Carpet-TIS-Addition):  `optimizedFastEntityMovement `,  `optimizedHardHitBoxEntityCollision `,  `optimizedTNTHighPriority `<br>[wholmT Addon](https://github.com/whoImT/carpet-addons):  `projectileRaycastLength`<br>[johan-carpet](https://github.com/JohanVonElectrum/Johan-Carpet): `ftlTNT` |
+| [DimensionalThreading](https://github.com/WearBlackAllDay/DimensionalThreading)    |  (✔)   |   ✔️   |⚠️fixes end portal gravity duping (unintended)            |
 | [Cull Particles](https://github.com/Tfarcenim/CullParticlesFabric)                 |   ✔️   |   ❌   |                                                          |
 | One of Either FastBench and FastFurnace or RecipeCache                             |   ✔️   |   ✔️   |                                                          |
 | [EntityCulling](https://github.com/tr7zw/EntityCulling)                            |   ✔️   |   ❌   | Could maybe have the risk of fixing XRAY bugs            |
 | [ClientSideNoteBlocks](https://github.com/DaCubeKing/ClientSideNoteblocks)         |   ✔️   |   ❌   |                                                          |
-| [Potassium](https://github.com/Kroppeb/Potassium)                                  |   ✔️   |   ✔️   |
-| [Alternate Current](https://github.com/SpaceWalkerRS/alternate-current)            |  (✔)   |   ✔️   |
-| [Minecraft Multi-Threading Mod Fabric](https://github.com/himekifee/MCMTFabric)    |  (✔)   |   ✔️   | Unstable, incompatible with dimensional multithreading   |
+| [Potassium](https://github.com/Kroppeb/Potassium)                                  |  (✔)   |   ✔️   |                                                          |
+| [Alternate Current](https://github.com/SpaceWalkerRS/alternate-current)            |  (✔)   |   ✔️   |                                                          |
+| [Minecraft Multi-Threading Mod Fabric](https://github.com/himekifee/MCMTFabric)    |  (✔)   |   ✔️   |⚠️Unstable, incompatible with dimensional multithreading  |
 
 
 ## General
