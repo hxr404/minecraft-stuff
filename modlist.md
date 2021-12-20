@@ -69,8 +69,7 @@ note that unstable mods are also in this list
 | [ConnectedBlockTextures](https://github.com/Nuclearfarts/connected-block-textures) |   ✔️   |   ❌   | wip                                                      |
 | [Minecraft XR](https://github.com/Sorenon/MCXR)                                    |   ✔️   |   ❌   | wip                                                      |
 | [Dynamic Sound Filters](https://www.curseforge.com/minecraft/mc-mods/dynamic-sound-filters)|   ✔️   |   ❌   |                                                  |
-| [MumbleLink](https://github.com/magneticflux-/fabric-mumblelink-mod)               |   ✔️   |   ✔️   |                                                          |
-| [MinecraftXR](https://github.com/Sorenon/MCXR)                                     |   ✔️   |   ❌   | wip                                                      |
+| [MumbleLink](https://github.com/magneticflux-/fabric-mumblelink-mod)               |   ✔️   |   ✔️   |                                                          | 
 | [PresenceFootsteps](https://github.com/Sollace/Presence-Footsteps)                 |   ✔️   |   ❌   |                                                          |
 | [MAmbience](https://www.curseforge.com/minecraft/mc-mods/mambience)                |   ✔️   |   ✔️   |                                                          |
 | Clear Despawn
