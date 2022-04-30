@@ -25,7 +25,6 @@ note that unstable mods are also in this list
 | [DimensionalThreading](https://github.com/WearBlackAllDay/DimensionalThreading)    |  (✔)   |   ✔️   |⚠️fixes end portal gravity duping (unintended)            |
 | [Cull Particles](https://github.com/Tfarcenim/CullParticlesFabric)                 |   ✔️   |   ❌   |                                                          |
 | One of Either FastBench and FastFurnace or RecipeCache                             |   ✔️   |   ✔️   |                                                          |
-| [EntityCulling](https://github.com/tr7zw/EntityCulling)                            |   ✔️   |   ❌   | Could maybe have the risk of fixing XRAY bugs            |
 | [ClientSideNoteBlocks](https://github.com/DaCubeKing/ClientSideNoteblocks)         |   ✔️   |   ❌   |                                                          |
 | [Potassium](https://github.com/Kroppeb/Potassium)                                  |  (✔)   |   ✔️   |                                                          |
 | [Alternate Current](https://github.com/SpaceWalkerRS/alternate-current)            |  (✔)   |   ✔️   |                                                          |
