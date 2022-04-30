@@ -5,14 +5,13 @@ note that unstable mods are also in this list
 | Mod                                                                                | Client | Server | Other (incompatibilities, custom Forks, etc.)             |
 |------------------------------------------------------------------------------------|--------|--------|-----------------------------------------------------------|
 | [Sodium](https://github.com/jellysquid3/sodium-fabric)                             |   ✔️   |   ❌   | wip                                                      |
-| [Entity Culling](https://github.com/tr7zw/EntityCulling-Fabric)                    |   ✔️   |   ❌   |                                                          |
+| ~~[Entity Culling](https://github.com/tr7zw/EntityCulling-Fabric)~~                |   ✔️   |   ❌   | NOT OPEN SOURCE ANYMORE!!!!!                              |
 | [Better Beds](https://github.com/TeamMidnightDust/BetterBeds)                      |   ✔️   |   ❌   |                                                          |
 | [Enhanced Block Entities](https://github.com/FoundationGames/EnhancedBlockEntities)|   ✔️   |   ❌   | Requires Indium for Sodium Compat                        |
 | [Phosphor](https://github.com/jellysquid3/phosphor-fabric)                         |   ✔️   |   ❌   | Incompatiblw with Starlight                              |
 | [Starlight](https://github.com/Spottedleaf/Starlight/)                             |   ✔️   |   ❌   | Incompatiblw with Phosphor                               |
 | [Lithium](https://github.com/jellysquid3/lithium-fabric)                           |  (✔)   |   ✔️   |                                                          |
-| [HopperOptimizations](https://github.com/2No2Name/hopperOptimizations)             |  (✔)   |   ✔️   | Requires [2No2Name's Lithium](https://github.com/2No2Name/lithium-fabric)|
-| [Tic-TACS](https://github.com/Gegy/tic-tacs)                                       |  (✔)   |   ✔️   | Incompatible with C2ME                                   |
+| ~~[Tic-TACS](https://github.com/Gegy/tic-tacs)~~                                   |  (✔)   |   ✔️   | Incompatible with C2ME   DEPRECATED/uNMAINTAINED                         |
 | [C2ME]( 	https://github.com/YatopiaMC/C2ME-fabric)                                |  (✔)   |   ✔️   | Incompatible with Tic-TACS                               |
 | [FastFurnace](https://www.curseforge.com/minecraft/mc-mods/fast-furnace-for-fabric)|  (✔)   |   ✔️   |                                                          |
 | [Hydrogen](https://github.com/jellysquid3/hydrogen-fabric/)                        |   ✔️   |   ✔️   |                                                          |
