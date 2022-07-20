@@ -6,7 +6,7 @@ note that unstable mods are also in this list
 |------------------------------------------------------------------------------------|--------|--------|-----------------------------------------------------------|
 | [Sodium](https://github.com/jellysquid3/sodium-fabric)                             |   ✔️   |   ❌   | wip                                                      |
 | ~~[Entity Culling](https://github.com/tr7zw/EntityCulling-Fabric)~~                |   ✔️   |   ❌   | NOT OPEN SOURCE ANYMORE!!!!!                              |
-| [Better Beds](https://github.com/TeamMidnightDust/BetterBeds)                      |   ✔️   |   ❌   |                                                          |
+| ~~[Better Beds](https://github.com/TeamMidnightDust/BetterBeds)~~                      |   ✔️   |   ❌   | Use [Enhanced Block Entities](https://github.com/FoundationGames/EnhancedBlockEntities) instead|
 | [Enhanced Block Entities](https://github.com/FoundationGames/EnhancedBlockEntities)|   ✔️   |   ❌   | Requires Indium for Sodium Compat                        |
 | [Phosphor](https://github.com/jellysquid3/phosphor-fabric)                         |   ✔️   |   ❌   | Incompatiblw with Starlight                              |
 | [Starlight](https://github.com/Spottedleaf/Starlight/)                             |   ✔️   |   ❌   | Incompatiblw with Phosphor                               |
