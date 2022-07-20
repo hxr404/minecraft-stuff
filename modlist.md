@@ -90,32 +90,31 @@ note that unstable mods are also in this list
 ## Other
 | Mod                                                                                | Client | Server | Other (incompatibilities, custom Forks, etc.)             |
 |------------------------------------------------------------------------------------|--------|--------|-----------------------------------------------------------|
-AppleSkin
+[AppleSkin](https://www.curseforge.com/minecraft/mc-mods/appleskin/files)
 [Amecs](https://github.com/Siphalor/amecs)
-antiswim
-Baritone
-Capes
-ChatHeads
-ClearSkies
-clientcommands
-DurabilityViewer
+[antiswim](https://github.com/pixeils/antiswim-fabric/)
+[Baritone](https://github.com/cabaletta/baritone)
+[Capes](https://www.curseforge.com/minecraft/mc-mods/capes)
+[ChatHeads](https://www.curseforge.com/minecraft/mc-mods/chat-heads)
+[ClearSkies](https://github.com/grondag/clear-skies)
+[clientcommands](https://github.com/Earthcomputer/clientcommands)
 FabricMumbleLink
 Fabrishot
-FasterLadderClimbing
-Gatewayer
-Giselbaers Durability Viewer
+[FasterLadderClimbing](https://github.com/arollyson/FasterLadderClimbing)
+[Gatewayer](https://github.com/Ivan-1F/gatewayer)
+[Giselbaers Durability Viewer](https://github.com/gbl/DurabilityViewer)
 HeldItemInfo
 hwyla-addon-horseinfo
 horse stats vanilla
-i-am-very-smart
-InvMove
-litematica
+[i-am-very-smart](https://gitlab.com/sargunv-mc-mods/i-am-very-smart)
+[InvMove](https://github.com/PieKing1215/InvMove)
+}litematica](https://github.com/maruohon/litematica)
 minihud
 minimalmenu
 multiconnect
 No-Fog
-preciseblockplacing
-reach out
+[preciseblockplacing](Replay Mod)
+[reach out](https://www.curseforge.com/minecraft/mc-mods/reach-out)
 Roughly Enough Resources
 RoughlyEnoughItems
 ScreenshotToClipboardFabric
