@@ -146,6 +146,9 @@ Fabric Zero
 [minitweaks (carpet](https://github.com/manyrandomthings/minitweaks)
 [tweakmyclient](https://github.com/Hendrix-Shen/Tweak-My-Client)
 [tweakermore](https://github.com/Fallen-Breath/tweakermore)
+[carpet fixes](https://github.com/fxmorin/carpet-fixes)
+[blanket](https://github.com/BlanketMC/blanket-client-tweaks)
+[carpet shadow](https://github.com/mattymatty97/carpet-shadow)
 
 # Resourcepacks
 [Connected Textures](https://www.curseforge.com/minecraft/texture-packs/mc-connected-ctm)
